@@ -38,6 +38,10 @@ article > h2{
     font-size: 1.3rem;
 }
 
+td{
+    border-bottom: 1px solid #0006;
+}
+
 table{
     width: 100%;
 }
